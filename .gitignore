@@ -213,3 +213,17 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+#############
+## Gradle
+#############
+.gradle/
+build/
+.idea/
+*.iml
+release/
+
+#############
+## MacOS
+#############
+.DS_Store
